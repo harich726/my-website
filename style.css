@@ -1,0 +1,99 @@
+
+h1{
+    padding: 10px;
+    font-family: comic sans ms;
+    margin: width 10px;
+    background: steelblue;
+
+	
+}
+    h1 a{
+        align: left;
+        width: 10%;
+        text-decoration: none;
+        background: yellow;
+        color: red;
+        font-size: 50px;
+
+    }
+    h1 p{
+        width: 90%;
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        font-size: 30px;
+
+
+}
+    }
+        h1 a:hover{
+        background: black;
+        color: white;
+
+    }
+nav{
+        overflow: hidden;
+        text-align: right;
+        background: lightpink;
+    	color: black;
+        text-decoration: none;
+        padding: 20px 16px 16px 20px ;
+        
+         }
+
+    nav a{
+        text-decoration: none;
+        font-size: 20px;
+        padding: 16px 16px 16px 16px ;
+    }
+    nav a:hover{
+        background: black;
+        color: white;
+
+    }
+header{
+        text-decoration: none;
+        overflow: hidden;
+        text-align: center;
+        background :lightblue;
+        color: black;
+        text-decoration: none;
+
+
+}
+header label{
+    font-size: 30px;
+}
+
+header p{
+    font-size: 15px;
+}
+
+header a{
+        text-decoration: none;
+        padding: 16px 16px 16px 16px ;
+    }
+
+header a:hover{
+        background: black;
+        color: white;
+
+    }
+
+h4{
+    font-size: 20px;
+    color: blue;
+}
+
+h5{
+    text-align: center;
+}
+footer{
+            text-align: center;
+            background: blueviolet;
+            color: white;
+            padding: 5px 5px;
+          }
+body{
+    background: lightblue;
+}
